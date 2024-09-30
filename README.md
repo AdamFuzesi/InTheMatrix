@@ -6,7 +6,7 @@ After cloning repo make sure Colorama is installed:
 
 pip install colorama
 
-# or
+or
 
 conda install -c anaconda colorama
 
