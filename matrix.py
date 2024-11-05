@@ -23,7 +23,6 @@ try:
     columns = [0] * WIDTH
 
     while True:
-
         for i in range(WIDTH):
 
             if columns[i] == 0:
